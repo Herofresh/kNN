@@ -1,0 +1,9 @@
+E:\Projects\kNN\kNN\bin\Debug\kNN.exe.config
+E:\Projects\kNN\kNN\bin\Debug\kNN.exe
+E:\Projects\kNN\kNN\bin\Debug\kNN.pdb
+E:\Projects\kNN\kNN\obj\Debug\kNN.csprojAssemblyReference.cache
+E:\Projects\kNN\kNN\obj\Debug\kNN.csproj.CoreCompileInputs.cache
+E:\Projects\kNN\kNN\obj\Debug\kNN.exe
+E:\Projects\kNN\kNN\obj\Debug\kNN.pdb
+E:\Projects\kNN\kNN\bin\Debug\Microsoft.Analytics.Diagnostics.dll
+E:\Projects\kNN\kNN\obj\Debug\kNN.csproj.CopyComplete
